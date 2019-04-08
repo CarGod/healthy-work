@@ -28,7 +28,7 @@ With the development of science and technology, more and more evidence shows tha
 
 ## The Secret of Huang Di Nei Jing
 
-In the Yellow Emperor's Canon, this describes a healthy lifestyle:
+In "Huang Di Nei Jing", this describes a healthy lifestyle:
 
 ```text
 黄帝问曰：
