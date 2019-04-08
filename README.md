@@ -45,7 +45,7 @@ In the Yellow Emperor's Canon, this describes a healthy lifestyle:
 不知持满，不时御神，务快其心，逆于生乐，起居无节，故半百而衰也。
 ```
 
-meaning is:
+eaning is:
 
 Huang Di asked Qi Bo:
 
